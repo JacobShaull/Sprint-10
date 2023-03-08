@@ -1,4 +1,4 @@
-# Sprint-10
+# Sprint-10(SQLite)
 My task was to write code to interact with SQLite databases
 
 Part 1: Making and populating a database
